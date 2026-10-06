@@ -1,0 +1,6 @@
+{
+  "name": "MMUST Digital Laptop Clearance & Gate Security System",
+  "description": "Final-year project for Masinde Muliro University of Science and Technology (MMUST). QR-code gate clearance, student portal, guard scanner, and admin dashboard.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
